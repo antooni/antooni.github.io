@@ -6,10 +6,10 @@ disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
 
 [params]
-    author = "Calin Tataru"
-    description = "Personal blog theme powered by Hugo"
-    githubUsername = "#"
-    accent = "red"
+    author = "Antoni Pawlak"
+    description = "integrity in underrated"
+    githubUsername = "antooni"
+    accent = "blue"
     showBorder = true
     backgroundColor = "white"
     font = "Raleway" # should match the name on Google Fonts!
@@ -42,26 +42,22 @@ googleAnalytics = ""
 # The list of available icons can be found at http://fontawesome.io/icons.
 
 [[menu.icon]]
-    url = "mailto:me@example.com"
+    url = "mailto:antoni.pawlak@protonmail.com"
     name = "fas fa-envelope"
     weight = 1
 
 [[menu.icon]]
-    url = "https://github.com/username/"
+    url = "https://github.com/antooni/"
     name = "fab fa-github"
     weight = 2
 
 [[menu.icon]]
-    url = "https://twitter.com/username/"
+    url = "https://twitter.com/antoonip/"
     name = "fab fa-twitter"
-    weight = 3
-
-[[menu.icon]]
-    url = "https://www.linkedin.com/in/username/"
-    name = "fab fa-linkedin"
     weight = 4
 
 [[menu.icon]]
-    url = "https://www.stackoverflow.com/username/"
-    name = "fab fa-stack-overflow"
+    url = "https://www.linkedin.com/in/antoni-pawlak/"
+    name = "fab fa-linkedin"
     weight = 5
+
