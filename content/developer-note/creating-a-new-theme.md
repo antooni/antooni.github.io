@@ -9,6 +9,8 @@ draft: false
 
 If you want to have your personal website without putting too much effort in it GitHub Pages is your way to go. You can simply push the index.html to your public folder on the main branch and you have your website. But there is a little problem, it will be a very basic one so you would have to code all the styling from scratch, not to mention logic. Don't worry **Hugo** got you covered, you can install themes and setup automatic build wih github workflows, let's see how to set it up...
 
+---
+
 ## quick step-by-step tutorial
 
 1. create github repo \<USERNAME\>.github.io
@@ -39,6 +41,8 @@ If you want to have your personal website without putting too much effort in it 
    
 Now you can edit certain files, add, remove, anything you like as long as you don't break things. I highly recommend doing the next section so you will be able to create your local build environment and see the changes before pushing them to GitHub.
 
+---
+
 ## install Hugo and run it locally
 
 1. Install Hugo for your operating system [link](https://gohugo.io/getting-started/installing)
@@ -47,6 +51,11 @@ Now you can edit certain files, add, remove, anything you like as long as you do
 
 It should print the local address of your webpage, in my case it is [http://localhost:1313](http://localhost:1313). The changes you made to the files are being automatically built so you can easily tinker with it. Enjoy and let me know if my tutorial helped you, preferably via email.
 
+---
 
-
-
+*when clonning new repo from GH remeber to 
+```
+   git submodule init
+   git submodule update
+   git submodule update --remote themes/minimal
+```
