@@ -88,6 +88,11 @@ View so amazing that you probably did not notice that the panoramic photo is bro
 That is how small you can feel. Among fjords one can feel familiarity to other human being not found in many other places. We really are similar you compared to the rest of nature.
 
 ---
+![](../../images/signal-2022-09-14-004529.jpeg)
+Photo represents the idealistic picture of reality. Like art describes only small fraction of the world, the same is with the picture, a small pill of perfect experience. How can we capture the feeling? 
+
+
+---
 
 ![](../../images/signal-2022-09-13-235151.jpeg)
 
