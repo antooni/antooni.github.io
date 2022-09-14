@@ -43,7 +43,7 @@ Why to have big houses when you can have them small?
 
 ---
 
-<!-- ![](obrazek dwa światy) -->
+![](../../images/signal-2022-09-14-150558_001.jpeg)
 Why to choose between nature and architecture when you can have them both?
 
 ---
@@ -55,7 +55,7 @@ I love panoramas of the city, and Bergen certainly has a few. Among many I can r
 
 ---
 
-<!-- ![zdjecie zupki]() -->
+![](../../images/signal-2022-09-14-070554_004.jpeg)
 
 Local food is the ultimate way of feeling the city. After trying the fishsoup I finally understood Bergen. It was one of the best meals I had in my life. I love the taste of fish and dairy, so the soup which is a perfect connection which my taste buds will not forget for quite some time. Sitting in the restaurant with the view on the street, eating local soup and reading a newspaper (even though I do not know norwegian) was a metaphysical experience. Opened doors in my mind that could not be opened at home on my sofa.
 
@@ -88,20 +88,42 @@ View so amazing that you probably did not notice that the panoramic photo is bro
 That is how small you can feel. Among fjords one can feel familiarity to other human being not found in many other places. We really are similar you compared to the rest of nature.
 
 ---
-![](../../images/signal-2022-09-14-004529.jpeg)
-Photo represents the idealistic picture of reality. Like art describes only small fraction of the world, the same is with the picture, a small pill of perfect experience. How can we capture the feeling? 
 
+![](../../images/signal-2022-09-14-004529.jpeg)
+During the trip I had some philosophical thoughts. We cannot forget that a photo represents the idealistic picture of reality. Like art describes only small fraction of the world, the same is with the picture, a small pill of perfect experience. How can we capture the feeling? How can I picture myself with me on a trip? Do I felt better taking this picture or sitting comfortably here in my chair. Did I over-idealized fjords before I saw them because of pictures? If those questions sound intriguing for you then "The Art of Travel" should your reading companion for next travel. Highly recommend. 
 
 ---
 
 ![](../../images/signal-2022-09-13-235151.jpeg)
 
-This waterfall in the background really took my words away, in that moment I could only sigh. Ooooh what a view... Perfect ending of the trip. The stamp. Memory.
+Waterfall in the background really took my words away, in that moment I could only sigh. Ooooh what a view... Perfect ending of the trip. The stamp. Memory.
 
 ---
 
+## Typical Bergen experience
+There is a saying ~"I hate Mondays" and you probably think that I would say that based on the below picture. Rainy weather during which even a small walk can turn into the shower should not be worth remembering. But for me it was. Right then I finally felt the real Bergen, why the city was built how it is built. Why people behave how they behave. The walks very hypnotizing despite the rain, what is more, it was the rain which was hypnotizing
 
+![](../../images/signal-2022-09-14-175801.jpeg)
+Of course to be honest after such a Monday I gave up my dream about moving to Bergen 🙃
+
+---
+
+![](../../images/signal-2022-09-14-175824.jpeg)
+
+
+## Going home
+
+![](../../images/signal-2022-09-14-175525.png)
+
+---
 
 ## Useful links
+- [Blog post with travel plan](https://wypiszwymalujpodroz.pl/praktyczny-poradnik/europa/norwegia/rejs-po-fiordach/) - I used it to organize our trip, very useful.
+- [Fjord cruise tickets](https://www.lustrabaatane.no/) - 390 NOK per person, you can write them an email and they will send you the voucher on which basis you can buy ticket on board, card payment is accepted. **This cruise takes place only from April to October**. For other option visit blog above or google.
 
-todo
+- [Train tickets around Norway](https://www.vy.no/en) - We used it to buy tickets from Bergen to Myrdal, Flamsbana from Myrdal to Flam and from Voss to Bergen. I recommend downloading the app, it is very useful. 
+
+- [Bus tickets around Norway](https://www.nor-way.no/en#/?step=2) - We bought there tickets from Gudvangen to Voss, I think when buying online you get them cheaper so you should.
+
+- [Bergen public transport tickets](https://www.skyss.no/en/tickets-and-prices/buying-tickets/skyss-ticket-app/) - Did not use it but I recommend downloading the app and buying tickets online, the machines on the bus stops sometimes act irrational 
+
