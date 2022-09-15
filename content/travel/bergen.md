@@ -98,22 +98,27 @@ During the trip I had some philosophical thoughts. We cannot forget that a photo
 
 Waterfall in the background really took my words away, in that moment I could only sigh. Ooooh what a view... Perfect ending of the trip. The stamp. Memory.
 
----
+> Fjords are the place like no other. 
 
 ## Typical Bergen experience
 There is a saying ~"I hate Mondays" and you probably think that I would say that based on the below picture. Rainy weather during which even a small walk can turn into the shower should not be worth remembering. But for me it was. Right then I finally felt the real Bergen, why the city was built how it is built. Why people behave how they behave. The walks very hypnotizing despite the rain, what is more, it was the rain which was hypnotizing
 
 ![](../../images/signal-2022-09-14-175801.jpeg)
-Of course to be honest after such a Monday I gave up my dream about moving to Bergen 🙃
+Of course after such a Monday I gave up my dream about moving to Bergen 🙃
 
 ---
 
 ![](../../images/signal-2022-09-14-175824.jpeg)
 
+> In some places rain is not a pessimistic thoughts producer, Bergen is one of those. The city seems as if it was built for this weather.
+
 
 ## Going home
 
 ![](../../images/signal-2022-09-14-175525.png)
+I did not want to go home after just those few days. I remember my thought from Saturday that the Monday evening will be a hard one. And it sure was but at the same time when you travel more and more you start to understand that this is a part of this process. The feeling that you want to stay in this place is a positive one and shows that you liked it. In many occasions one would think that maybe just one more day... But the hardest part is to know when to stop.
+
+> Gdybyś kiedyś tam został to by tutaj cię nie było. ~Sabina 2021
 
 ---
 
