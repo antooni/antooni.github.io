@@ -7,7 +7,7 @@ googleAnalytics = ""
 
 [params]
     author = "Antoni Pawlak"
-    description = "integrity in underrated"
+    description = "integrity is underrated"
     githubUsername = "antooni"
     accent = "#5F9EA0"
     showBorder = true
