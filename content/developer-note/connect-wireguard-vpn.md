@@ -1,6 +1,6 @@
 ---
 title: "Connect to VPN using Wireguard"
-date: 2022-11-05
+date: 2022-11-04
 tags: ["VPN", "Wireguard"]
 draft: false
 ---
