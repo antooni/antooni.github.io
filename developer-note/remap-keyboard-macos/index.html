@@ -1,0 +1,48 @@
+<!doctype html><html lang=en-us><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><title>Remap menu button in MacOS</title><style>html body{font-family:raleway,sans-serif;background-color:#fff}:root{--accent:#5F9EA0;--border-width:5px}</style><link rel=stylesheet href=https://antooni.github.io/css/main.css><link rel=stylesheet href="https://fonts.googleapis.com/css?family=Raleway"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css><link rel=stylesheet href=https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css crossorigin=anonymous><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin=anonymous><script src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js></script>
+<script src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/go.min.js></script>
+<script src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/haskell.min.js></script>
+<script src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/kotlin.min.js></script>
+<script src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/scala.min.js></script>
+<script src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/swift.min.js></script>
+<script>hljs.initHighlightingOnLoad()</script><script src=https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js></script>
+<script src=https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js integrity=sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa crossorigin=anonymous></script>
+<script>$(document).on("click",function(){$(".collapse").collapse("hide")})</script><meta name=generator content="Hugo 0.110.0"><script type=text/javascript async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script></head><body><nav class="navbar navbar-default navbar-fixed-top"><div class=container><div class=navbar-header><a class="navbar-brand visible-xs" href=#>Remap menu button in MacOS</a>
+<button class=navbar-toggle data-target=.navbar-collapse data-toggle=collapse>
+<span class=icon-bar></span>
+<span class=icon-bar></span>
+<span class=icon-bar></span></button></div><div class="collapse navbar-collapse"><ul class="nav navbar-nav"><li><a href=/>Home</a></li><li><a href=/about/>About</a></li><li><a href=/blog/>Blogs</a></li><li><a href=/project/>Projects</a></li></ul><ul class="nav navbar-nav navbar-right"><li class=navbar-icon><a href=mailto:antoni.pawlak@protonmail.com><i class="fas fa-envelope"></i></a></li><li class=navbar-icon><a href=https://github.com/antooni/><i class="fab fa-github"></i></a></li><li class=navbar-icon><a href=https://twitter.com/antoonip/><i class="fab fa-twitter"></i></a></li><li class=navbar-icon><a href=https://www.linkedin.com/in/antoni-pawlak/><i class="fab fa-linkedin"></i></a></li></ul></div></div></nav><main><div><h2>Remap menu button in MacOS</h2><h5></h5><a href=https://antooni.github.io/tags/macos><kbd class=item-tag>MacOS</kbd></a>
+<a href=https://antooni.github.io/tags/windows-keyboard><kbd class=item-tag>Windows Keyboard</kbd></a></div><div align=start class=content><h1 id=tldr>TL;DR</h1><p>Here is the issue on Apple Stack Exchange <a href=https://apple.stackexchange.com/questions/173898/repurposing-menu-button-on-windows-keyboards-used-in-os-x>link</a></p><pre tabindex=0><code>hidutil property --set &#39;{&#34;UserKeyMapping&#34;:[
+    {
+        &#34;HIDKeyboardModifierMappingSrc&#34;: 0x700000065,
+        &#34;HIDKeyboardModifierMappingDst&#34;: 0x7000000E6
+    }
+]}&#39;
+</code></pre><h1 id=problem>Problem</h1><p>Recently I have started using MacOS. And with all this comfort connected with it, there also came a problem. Writing polish signs on my Bluetooth Keyboard (Microsoft Sculpture).</p><p>As you can see on the picture below, right to the spacebar there is an <code>Alt</code> key, which i used to click when I wanted to type polish sings e.g. <code>ą, ę</code>.</p><p><img src=https://m.media-amazon.com/images/I/81ZTerlRJ7L.jpg alt></p><p><code>Right Alt</code> is used in MacOS as <code>command</code>, but what I wanted is <code>option</code>. And yes, there is an easy way: you can swap option with command in <code>System Setting</code> for any keyboard, but&mldr;</p><p>I wanted a full MacOS experience, and &ldquo;unify&rdquo; my muscle memory, because switching from macbook keyboard to bluetooth would become hell. Not to mention remapping the macbook&rsquo;s keyboard keys, that is not what I wanted.</p><blockquote><p>I decided to remap the <code>≣ Menu</code> button to <code>⌥ Right option</code></p></blockquote><h1 id=solution>Solution</h1><p>Net-enjoyer truly I am, so I asked google and got the <a href=https://apple.stackexchange.com/questions/173898/repurposing-menu-button-on-windows-keyboards-used-in-os-x>answer</a>.</p><p>At first I tried <code>karabiner-elements</code>, but it neither helped me (did not support menu button), nor did I liked it (privacy issue, 3rd party listening to my keyboard).</p><p>So I went for the second answer, more low level one, using CLI tool called <code>hidutil</code> introduced in MacOS 10.12.</p><p>Steps I needed to take:</p><ol><li><p>Identify which keys to change <a href=https://developer.apple.com/library/archive/technotes/tn2450/_index.html>cheatsheet</a></p><ul><li>source: <code>≣ Menu</code> - Application (0x65)</li><li>destination: <code>⌥ Right option</code> - Right Alt (0xE6)</li></ul></li><li><p>Run <code>hidutil</code> to test that it works:</p></li></ol><pre tabindex=0><code>hidutil property --set &#39;{&#34;UserKeyMapping&#34;:[
+    {
+        &#34;HIDKeyboardModifierMappingSrc&#34;: 0x700000065,
+         &#34;HIDKeyboardModifierMappingDst&#34;: 0x7000000E6
+    }
+]}&#39; 
+</code></pre><ol start=3><li><p>Use <code>launchd</code> agent to run this sript on system startup</p><ul><li>create file <code>~/Library/LaunchAgents/remap.plist</code></li><li>fill the file with the following code</li></ul></li></ol><pre tabindex=0><code>&lt;?xml version=&#34;1.0&#34; encoding=&#34;UTF-8&#34;?&gt;
+&lt;!DOCTYPE plist PUBLIC &#34;-//Apple//DTD PLIST 1.0//EN&#34; &#34;http://www.apple.com/DTDs/PropertyList-1.0.dtd&#34;&gt;
+&lt;plist version=&#34;1.0&#34;&gt;
+&lt;dict&gt;
+    &lt;key&gt;Label&lt;/key&gt;
+    &lt;string&gt;com.local.KeyRemapping&lt;/string&gt;
+    &lt;key&gt;ProgramArguments&lt;/key&gt;
+    &lt;array&gt;
+        &lt;string&gt;/usr/bin/hidutil&lt;/string&gt;
+        &lt;string&gt;property&lt;/string&gt;
+        &lt;string&gt;--set&lt;/string&gt;
+        &lt;string&gt;{&#34;UserKeyMapping&#34;:[
+            {
+                &#34;HIDKeyboardModifierMappingSrc&#34;: 0x700000065,
+                &#34;HIDKeyboardModifierMappingDst&#34;: 0x7000000E6
+            }
+        ]}&lt;/string&gt;
+    &lt;/array&gt;
+    &lt;key&gt;RunAtLoad&lt;/key&gt;
+    &lt;true/&gt;
+&lt;/dict&gt;
+&lt;/plist&gt;
+</code></pre><blockquote><p>It works !!! Proof: ćąłóę</p></blockquote></div></main><footer><p class="copyright text-muted">© All rights reserved. Powered by <a href=https://gohugo.io>Hugo</a> and <a href=https://github.com/calintat/minimal>Minimal</a>.</p></footer></body></html>
