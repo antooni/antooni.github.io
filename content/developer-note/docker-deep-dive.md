@@ -24,3 +24,10 @@ In addition I would like to understand docker in depth, because currently I know
 
 Especially during this last point (dev-env), I felt inner need to better understand it, how Dockerfile file works, how it rebuilds, how docker-compose uses Dockerfile, is it rebuilt every time, how to write efficient tooling with it, and finally how it all works under the hood.
 
+# What have I learnt?
+
+- standard output and errors handling, exit codes can be passed from child do parent
+- chroot is just changing the root folder, so child process cannot name (access) other folders, called chroot jail
+    - Create an empty temporary directory and chroot into it when executing the command. You'll need to copy the binary being executed too. I do not know how to copy binary here
+    - I am not exactly sure where the code is
+    - https://tbhaxor.com/pivot-root-vs-chroot-for-containers/
