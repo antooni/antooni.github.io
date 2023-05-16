@@ -14,7 +14,7 @@ I highly recommend listening to [Light of the Seven](https://www.youtube.com/wat
 
 ## Niceland
 
-I came up with the name inside the car, when everyone was looking through the windows and constantly someone was saying "nice". It is a nice land indeed, but only saying it is nice is an understatement. But to be honest, it is hard to put into words what one sees there. Maybe "nice" is not that bad of a word after all, because it leaves the place for interpretation. I will try to fill this void with photos and hopefully will manage to familiarize you with the truly remarkable world of this small distant island.
+I came up with the name inside the car, when everyone was looking through the windows and constantly someone was saying "nice". It is a nice land indeed, but only saying it is nice is an understatement. To be honest, it is hard to put into words what one sees there. Maybe "nice" is not that bad of a word after all, because it leaves the place for interpretation. I will try to fill this void with photos and hopefully will manage to familiarize you with the truly remarkable world of this small distant island.
 
 ![](../../images/iceland/main.jpg)
 
@@ -56,14 +56,26 @@ Kirkjufell
 
 **All the photos were taken in the span of a week and in the area three times smaller than Poland, but for me they do look like from different seasons and different continents.**
 
+## Vastness of space
+
+Immediately after jumping into the car at the airport I have noticed that Iceland is kinda empty, but not in the negative sense. Although it was middle of the night, I could see the very distant horizon on every direction. What really struck me is the way it is empty. It is not flat as central Poland, it is not hilly like south of Poland, it is all of it at once. Single mountain appears out of nowhere and disappear even faster. Coast shows itself only to quickly hide behind the hill. Waterfalls are more commonly seen from the car's windows than it is to see other human being. Basically if you look at your phone for quite a while and take a glance after, you are surprised with something new.
+
+![](../../images/iceland/road-5.jpg)
+![](../../images/iceland/road-1.jpg)
+![](../../images/iceland/road-2.jpg)
+![](../../images/iceland/road-4.jpg)
+![](../../images/iceland/road-6.jpg)
+![](../../images/iceland/road-7.jpg)
+![](../../images/iceland/road.jpg)
+![](../../images/iceland/road-8.jpg)
+![](../../images/iceland/road-9.jpg)
+
+**I always had a dream to go to USA, turn "Country roads" on and ride behind the horizon. To be honest Iceland fulfilled this dream beyond the expectations. These were the car rides that I want to retake!**
+
 ## Power of nature
 
 doceniasz i zaczynasz szanować
 Changing weather
-
-## Vastness of space
-
-![](../../images/iceland/road.jpg)
 
 ## Feeling alive
 
