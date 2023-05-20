@@ -74,8 +74,28 @@ Immediately after jumping into the car at the airport I have noticed that Icelan
 
 ## Power of nature
 
-doceniasz i zaczynasz szanować
-Changing weather
+When choosing a destination I search for natural wonders, to see the things that I cannot anywhere else. Amazing building can be built somewhere else, art collection could be relocated, but some creations for nature are non-replicable. That is why Iceland seemed like a no-brainer to me, I have heard many good opinions about it, have seen amazing photos, and what is most important Sabina really wanted to go, so I was sure this would be a great travel destination.
+To be honest, I had high expectations before the trip, which was a bit risky... But Iceland just surprised me, how unique of a place it it. It exceeded my expectations.
+Natural wonders are the daily bread of Iceland, basically wherever you look you will find something. You drive and stop by a random waterfall, which in most countries would be a national treasure. You look through your window and it feels like a paid trip to see the national park.
+But what truly amazed me was how "bare" this nature was there. You could really see the natural processes here. That the glaciers melt, then the water turns into the waterfall, only to later enter the underground thermal ground and turn into the hot spring somewhere else. Nowhere in the world have I seen nature so "live", you can truly feel that the Earth is a living organism, that the ecosystem is the perfect machinery that we do not notice on daily basis, when living in the city.
+
+![](../../images/iceland/nature.jpg)
+![](../../images/iceland/nature-1.jpg)
+![](../../images/iceland/nature-2.jpg)
+![](../../images/iceland/nature-3.jpg)
+![](../../images/iceland/nature-4.jpg)
+![](../../images/iceland/nature-5.jpg)
+
+## Changing weather
+
+There is a saying: If you are going to Iceland and have any expectations about the weather, then you should not go. More than anywhere in the world you have to obey the nature, and you understand how small you are compared to the Earth.
+And I am not saying it theoretically, I have felt it on my own skin. Iceland welcomed us with a nice weather on the first day, but the next morning we woke up on the absolutely different island, the land of ice and snow. The snow fall was so big that at some point I was afraid we will get stuck and not drive any further. Here is the photo...
+
+![](../../images/iceland/bonus-pogoda.jpg)
+
+And all of that has changed after one hour drive, when suddenly the snowing stopped and the landscape has changed, no snow at all!
+
+![](../../images/iceland/bonus-pogoda-2.jpg)
 
 ## Feeling alive
 
