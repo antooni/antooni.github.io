@@ -80,11 +80,19 @@ Natural wonders are the daily bread of Iceland, basically wherever you look you 
 But what truly amazed me was how "bare" this nature was there. You could really see the natural processes here. That the glaciers melt, then the water turns into the waterfall, only to later enter the underground thermal ground and turn into the hot spring somewhere else. Nowhere in the world have I seen nature so "live", you can truly feel that the Earth is a living organism, that the ecosystem is the perfect machinery that we do not notice on daily basis, when living in the city.
 
 ![](../../images/iceland/nature.jpg)
-![](../../images/iceland/nature-1.jpg)
+200m high waterfall
+
 ![](../../images/iceland/nature-2.jpg)
+volcano that erupted two years ago
+
 ![](../../images/iceland/nature-3.jpg)
+bay created by the melting glacier
+
 ![](../../images/iceland/nature-4.jpg)
-![](../../images/iceland/nature-5.jpg)
+bridge between two tectonic plates
+
+![](../../images/iceland/nature-5.png)
+small birds causing people to loose their heads in awe
 
 ## Changing weather
 
@@ -97,8 +105,6 @@ And all of that has changed after one hour drive, when suddenly the snowing stop
 
 ![](../../images/iceland/bonus-pogoda-2.jpg)
 
-## Feeling alive
-
-musisz sie sluchac
-
 ## It's different
+
+Iceland really and truly amazed me with its wonders, the barebone nature and everchanging weather. It was beautiful. What is interesting is the way this beauty felt, it was just... different. It is not like going on a walk in Poland and seeing an amazing scape. Iceland feels out of this world, as if you are looking on the other planet. You are charmed when looking at this, but it almost looks unreal. I do not know how to put it into words. It is not the beauty that you can easily relate to, you rather feel hypnotized than comfortable. Maybe an analogy would be great: In Poland when I go for the trip and see something beautiful I feel total relax, as if in the heaven on earth. In Iceland you rather feel like on the rollercoaster where everything you see is giving you ecstasy.
