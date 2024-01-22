@@ -65,5 +65,6 @@ tell application "System Settings" to quit
 5. Set keyboard shortcut: Keyboard -> Keyboard Shortcuts -> Services -> General -> Your Quick Action
    ![](../../images/dev/keyboard-shortcut.png)
 6. I am using `Control + Option + 0`
+7. If you hit shortcut for the first time the pop-up will appear, click OK to allow for your action to run
 
 ### Thanks for reading
