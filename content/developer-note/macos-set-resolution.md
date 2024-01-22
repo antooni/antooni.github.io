@@ -22,9 +22,10 @@ It is hard to precisely describe it or replicate, but if I close my Mac lid and 
 I needed a way to change the resolution without the access to the GUI. The easiest solution that came to my mind was **keyboard shortcut**. I googled and found an [answer](https://apple.stackexchange.com/questions/263162/is-it-possible-to-change-display-resolution-with-a-keyboard-shortcut)
 
 1. Automator -> File -> New -> Quick Action -> **Run Apple Script**
-2. Decide which resolution do you want to set (which row)
+2. Displays -> Advanced -> Show resolutions as list
+   Choose which resolution will your script set (for me it will be the 1st)
    ![](../../images/dev/displays-menu.png)
-3. Past the source code to the Automator & save
+4. Past the source code to the Automator & save
 
 ```
 -- Define a variable for the row number
